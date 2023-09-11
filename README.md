@@ -2,7 +2,7 @@
 
 ## Contacts 📬
 <div>
-  <a href="www.linkedin.com/in/simone-marino-8930">
+  <a href="https://www.linkedin.com/in/simone-marino-8930">
     <img alt="my-Linkedin" width="50px" src="https://raw.githubusercontent.com/adityakamath16/adityakamath16/3a1eeb1b0a7642426520689f4be8017324f8b8e2/images/connect_with_me_images/linkedin.svg" />
  </a>
  &nbsp; 
